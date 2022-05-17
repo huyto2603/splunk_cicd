@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+<nav search_view="search" color="#5cc05c">
+    <view label="Website Activity" name="website_activity" default='true' />
+</nav>
+=======
+<nav search_view="search" color="#FF22AA">
+  <view name="web_analytics" default="true" />
+  <view name="panel_grouping_with_charts"/>
+  <view name="custom_style" />
+  <view name="custom_data_visualizations" />
+</nav>
+>>>>>>> 154e8a4aec2b9dd4a897ec654eb009a2c96ee675
